@@ -1,42 +1,34 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jonathan J.Y. Teo's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jonathan Teo
+Computational Biologist, Data Scientist.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="jonathan@macadology.com">jonathan@macadology.com</a>
 </div>
 
 
-## Currently
+## Research interests
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Dynamical Biological Models, Feedback Control Theory, Metagenomics, Food Fermentation
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2005 - 2006`
+__Raffles Junior College, Singapore__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2009-2012`
+__Johns Hopkins University, Baltimore MD__
 
-- Sizar
+- B.A. Biophysics
+- B.A. Physics
+- Minor in Economics
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2013-2019`
+__Massachusetts Institute of Technology, Cambridge MA__
 
 - Fellow
 
