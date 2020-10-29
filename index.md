@@ -18,29 +18,25 @@ Dynamical Biological Models, Feedback Control Theory, Metagenomics, Food Ferment
 ## Education
 
 `2005 - 2006`
-__Raffles Junior College, Singapore__
+###Raffles Junior College, Singapore
 
-`2009-2012`
-__Johns Hopkins University, Baltimore MD__
+`2009 - 2012`
+###Johns Hopkins University, Baltimore MD
 
 - B.A. Biophysics
 - B.A. Physics
 - Minor in Economics
 
-`2013-2019`
+`2013 - 2019`
 __Massachusetts Institute of Technology, Cambridge MA__
 
-- Fellow
-
+- Ph.D. Computational Biology
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+`2009` National Science Scholarship (NSS) BS 
+`2013` National Science Scholarship (NSS) PhD 
 
 
 ## Publications
