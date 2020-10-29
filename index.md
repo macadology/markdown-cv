@@ -18,10 +18,10 @@ Dynamical Biological Models, Feedback Control Theory, Metagenomics, Food Ferment
 ## Education
 
 `2005 - 2006`
-### Raffles Junior College, Singapore
+__Raffles Junior College, Singapore__
 
 `2009 - 2012`
-### Johns Hopkins University, Baltimore MD
+__Johns Hopkins University, Baltimore MD__
 __B.A. Biophysics__
 - B.A. Physics
 - Minor in Economics
