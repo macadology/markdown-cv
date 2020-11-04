@@ -39,7 +39,7 @@ __Raffles Junior College, Singapore__
 __Biomolecular Modeling and Design, Bioinformatic Institute (BII) A*STAR, Biopolis, Singapore__
 
 - **Research Advisor:** Dr. Chandra Verma
-- Investigating potential long range allosteric effects of MDM2 between its acidic domain and binding site.
+- Investigating potential long-range allosteric effects of MDM2 between its acidic domain and binding site.
 - Identifying structural and functional differences in MDM2-p53 binding in different animal species for drug discovery.
 - Applying statistical techniques to analyze changes in binding interaction over time.
 
