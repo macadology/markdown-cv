@@ -34,6 +34,12 @@ __Johns Hopkins University, Baltimore MD__
 __Raffles Junior College, Singapore__
 
 ## Work Experience
+`2019 - Current`
+__Lab of Metagenomic Technology & Microbial Systems, Genome Institute of Singapore (GIS) A*STAR, Biopolis, Singapore__
+- **Research Advisor:** Dr. Niranjan Nagarajan
+- Dynamical modeling of microbial interactions in food microbiome.
+- Feature engineering of environmental metagenome.
+- Applying metagenomics to study the effects of food on the gut microbiome.
 
 `2012`
 __Biomolecular Modeling and Design, Bioinformatic Institute (BII) A*STAR, Biopolis, Singapore__
